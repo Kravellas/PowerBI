@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Aula"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "7a52bb2f-3436-47f7-9fd2-97520ddca7fe"
+  }
+}
